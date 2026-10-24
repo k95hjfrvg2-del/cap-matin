@@ -99,12 +99,17 @@ trouvés.
   `###` (voir déroulé). Le script : `scripts/cap_matin_YYYY-MM-DD.txt`.
 - Vérifier le nombre de mots : `wc -w` (800 à 1 050).
 
-## 4. Prononciation
+## 4. Prononciation (règles de Nicolas)
 
-La voix Kyutai lit le français ; certains noms (étrangers, bretons) peuvent être mal prononcés.
-Ajouter alors une ligne `Orthographe => graphie phonétique française` dans `prononciation.txt`
-(appliquée automatiquement avant la lecture). Chaque mot étranger se dit comme dans sa langue
-d'origine.
+- **Asnières se dit « Anière »** : on ne prononce jamais les S (déjà dans `prononciation.txt`).
+- **Les noms, prénoms et mots courants anglais se disent avec l'accent anglais**, jamais « à la
+  française » (Trump, Elon Musk, New York, Central Park, Starlink…). Plus généralement, chaque mot
+  étranger se dit comme dans sa langue d'origine.
+- La voix lit tout « à la française » : pour chaque nom anglais ou étranger du script qui n'est pas
+  encore dans `prononciation.txt`, ajouter une ligne `Orthographe => graphie phonétique française`
+  qui imite la prononciation d'origine (ex. `Donald Trump => Donald Treumpe`,
+  `New York => Niou Yorque`). Garder l'orthographe correcte dans le script : le remplacement est
+  appliqué automatiquement avant la lecture. Faire de même pour les noms bretons difficiles.
 
 ## 5. Audio
 
