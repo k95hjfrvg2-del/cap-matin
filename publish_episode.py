@@ -16,7 +16,7 @@ SHOW = {
     "author": "Cap Matin",
     "description": ("Chaque matin à six heures, sept minutes entre Paris, Audierne et Asnières : la météo, la mer et les marées, "
                     "l'actualité française et du monde, deux bonnes nouvelles, une nouvelle de Paris et une du Finistère, "
-                    "un fait culturel, un fait historique et une minute de philosophie. Voix de synthèse."),
+                    "un fait culturel, un fait historique et une minute de philosophie. Voix de synthèse Kyutai TTS (CC-BY 4.0)."),
     "language": "fr-fr",
     "category": "Society &amp; Culture",
     "email": os.environ.get("PODCAST_OWNER_EMAIL", "podcast@users.noreply.github.com"),

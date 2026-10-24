@@ -2,7 +2,7 @@
 
 Podcast quotidien en français, 7 jours sur 7, pour Nicolas (Londres ; famille et attaches à Paris,
 Asnières-sur-Seine et Audierne, dans le Finistère). Publié dans le fil Apple Podcasts **avant 6h00,
-heure de Paris**. Fil : `https://k95hjfrvg2-del.github.io/cap-matin/feed.xml`.
+heure de Paris** (la tâche démarre vers 4h40 car le rendu de la voix prend ≈45 minutes). Fil : `https://k95hjfrvg2-del.github.io/cap-matin/feed.xml`.
 
 Ce dépôt ne contient que Cap Matin. Ne jamais toucher au dépôt `le-petit-matin` (autre podcast).
 
@@ -101,26 +101,38 @@ trouvés.
 
 ## 4. Prononciation
 
-Les voix Microsoft lisent bien les noms. Si un nom est mal lu, ajouter une ligne
-`Orthographe => graphie phonétique` dans `prononciation.txt`.
+La voix Kyutai lit le français ; certains noms (étrangers, bretons) peuvent être mal prononcés.
+Ajouter alors une ligne `Orthographe => graphie phonétique française` dans `prononciation.txt`
+(appliquée automatiquement avant la lecture). Chaque mot étranger se dit comme dans sa langue
+d'origine.
 
 ## 5. Audio
 
-Voix : Microsoft (edge-tts), **une par jour**, choisie automatiquement par `tools/make_episode.py`
-selon le jour de la semaine (heure de Paris) :
-lundi Vivienne, mardi Henri, mercredi Denise, jeudi Rémy, vendredi Ava, samedi Ariane,
-dimanche Rémy. Ne pas changer sans l'accord de Nicolas.
+Voix : **Kyutai TTS 1.6B en_fr, voix « L »** — la même que Petit Matin Good Vibes, gratuite et libre
+(licence CC-BY 4.0). Une seule voix, tous les jours. Ne pas la changer sans l'accord de Nicolas.
+Jamais de voix Microsoft (conditions d'usage incertaines pour un podcast public).
 
 Musique et sons (dans `assets/`, ne pas régénérer) : générique breton acoustique au début et à la
 fin ; vague après la météo ; harpe ou piano au hasard entre les autres sections ; pauses courtes.
 
+Installation (≈5 minutes, à lancer en arrière-plan **dès le début**, pendant la recherche) :
+
 ```bash
-pip install --break-system-packages -q edge-tts
-python3 tools/make_episode.py scripts/cap_matin_YYYY-MM-DD.txt /tmp/Cap_Matin_YYYY-MM-DD.mp3 YYYY-MM-DD
+pip install --break-system-packages -q torch torchaudio moshi
 ```
 
-Le script utilise automatiquement le proxy (`HTTPS_PROXY`) et refait toute phrase dont l'audio sort
-tronqué. Vérifier la durée affichée (**7 min 30 maximum** ; sinon raccourcir le texte et relancer).
+(Le modèle Kyutai, ≈3 Go, se télécharge tout seul depuis huggingface.co au premier rendu.)
+
+Rendu : **compter 7 à 8 fois la durée audio, soit 40 à 55 minutes** pour un épisode de 6 minutes.
+Le lancer en arrière-plan dès que le script est final (reprise possible : les paragraphes déjà
+rendus sont conservés dans le dossier de travail) :
+
+```bash
+python3 tools/make_episode.py scripts/cap_matin_YYYY-MM-DD.txt /tmp/Cap_Matin_YYYY-MM-DD.mp3 YYYY-MM-DD > /tmp/render.log 2>&1
+```
+
+Suivre la progression dans /tmp/render.log (une ligne « i n » par paragraphe). Vérifier la durée
+affichée à la fin (**7 min 30 maximum**).
 
 ## 6. Publication
 
