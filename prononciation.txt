@@ -1,0 +1,3 @@
+# Une ligne par nom : Orthographe correcte => graphie phonétique (appliquée avant la lecture par la voix).
+# Les voix Microsoft lisent bien la plupart des noms ; n'ajouter une ligne que si un nom est mal prononcé.
+# Les lignes qui commencent par # sont ignorées.
