@@ -49,7 +49,8 @@ def main():
     flat = f"{w}/flat.txt"
     open(flat, "w", encoding="utf-8").write("\n\n".join(paras) + "\n")
     print(f"voice: Kyutai L — {len(paras)} paragraphs to render", flush=True)
-    sh(f'python3 -I "{ROOT}/tools/kyutai_paras.py" {flat} {w}/paras')
+    # Python 3.13: torch.compile is not supported, so it must be switched off or the voice crashes
+    sh(f'NO_TORCH_COMPILE=1 python3 -I "{ROOT}/tools/kyutai_paras.py" {flat} {w}/paras')
     sh(f'cd {w} && ffmpeg -y -loglevel error -f lavfi -i anullsrc=r=24000:cl=mono -t 0.2 sil.wav '
        f'&& ffmpeg -y -loglevel error -f lavfi -i anullsrc=r=24000:cl=mono -t 0.1 gap.wav')
     for x in ["vague", "harpe", "piano"]:
