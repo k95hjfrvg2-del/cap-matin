@@ -213,3 +213,6 @@ Jenny Holzer => Djénie Holzeur
 Lula => Loula
 Flávio Bolsonaro => Flavio Bolsonarou
 Jordan Bardella => Djordane Bardella
+Austen => Ostine
+LED => èl-eu-dé
+lápiz => lapisse
