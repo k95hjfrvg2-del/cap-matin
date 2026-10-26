@@ -8,7 +8,7 @@ Ce dépôt ne contient que Cap Matin. Ne jamais toucher au dépôt `le-petit-mat
 
 ## Règles de Nicolas (non négociables)
 
-- **Durée : 7 à 8 minutes maximum** (viser 5 min 30 à 7 min 30, soit environ 800 à 1 050 mots).
+- **Durée : 7 à 8 minutes maximum** (viser 5 min 30 à 7 min 30, soit environ 950 à 1 150 mots).
 - **Une seule voix par épisode**, celle du jour (voir section 5). Jamais de duo ni de mélange de voix.
 - **Ton dynamique = énergie, pas vitesse** : phrases courtes, exclamations, questions au public,
   petites réactions (« Bravo ! », « Impressionnant ! »). Ne jamais accélérer le débit de la voix.
@@ -64,7 +64,21 @@ les 7 prochains), en citer une ou deux (lieu + titre) — sources : timeout.fr, 
 `###` **Section 7 — Audierne / Cap Sizun / Finistère** (≈ 60 mots). Sources : audierne.bzh,
 Ouest-France, Le Télégramme, France 3 Bretagne, meteo.bzh.
 
-`###` **Section 8 — Le fait culturel** (≈ 80 mots), avec un détail vivant.
+`###` **Section 7 bis — Une histoire de marin et de la mer** (≈ 90 mots) : une histoire vraie et
+vérifiée de marins ou de mer — naufrage, sauvetage, exploit, phare, gardien de phare, course au
+large, pêcheurs, légende bretonne (en la présentant comme une légende), découverte
+océanographique… De préférence en Bretagne ou en France, sinon dans le monde. Raconter comme une
+histoire (un personnage, un moment, un dénouement), avec un lieu et une date.
+
+`###` **Section 7 ter — Le poisson du jour** (≈ 70 mots) : un poisson (ou animal marin) à chaque
+fois différent, avec **toujours** : son nom courant, **son nom latin** (genre et espèce, dit
+lentement, par ex. « Dicentrarchus labrax »), **son poids** (moyen et record ou maximum), **où on le
+trouve** (mers, profondeur, côtes bretonnes si c'est le cas), **qui le mange** (ses prédateurs,
+et l'homme si c'est le cas) **et comment on le mange** (une façon de le cuisiner, ou comment ses
+prédateurs le chassent). Sources fiables : FishBase, DORIS (doris.ffessm.fr), Ifremer, MNHN.
+Privilégier les poissons de l'Atlantique et de la Manche, sans négliger le reste du monde.
+
+`###` **Section 8 — Le fait culturel** (≈ 70 mots), avec un détail vivant.
 
 `###` **Le mercredi seulement — Les sorties cinéma** (≈ 100 mots) : deux ou trois films qui sortent
 ce mercredi en France, de préférence français, européens, d'auteur ou asiatiques ; **jamais de
@@ -92,8 +106,9 @@ trouvés.
   Bonnes nouvelles : lemediapositif.com, bonnesnouvellesdujour.fr — toujours vérifier ailleurs.
 - Ne rien inventer ; paraphraser.
 - **Anti-répétition** : lire `history.json`. Ne pas répéter dans les 30 derniers jours un fait
-  culturel, un événement historique, un philosophe ou une citation. Ajouter l'épisode du jour en
-  tête de `history.json` (même format, avec la voix utilisée).
+  culturel, un événement historique, un philosophe ou une citation, ni une histoire de marin ;
+  **ne jamais répéter un poisson** déjà présenté (champ `poisson`). Ajouter l'épisode du jour en
+  tête de `history.json` (même format, avec la voix utilisée et les champs `marin` et `poisson`).
 
 ## 3. Écrire pour l'oreille
 
@@ -101,7 +116,7 @@ trouvés.
   quatre-vingt-deux », « mille neuf cent quarante-cinq »).
 - Paragraphes courts (moins de 90 mots), un paragraphe par ligne, sections séparées par une ligne
   `###` (voir déroulé). Le script : `scripts/cap_matin_YYYY-MM-DD.txt`.
-- Vérifier le nombre de mots : `wc -w` (800 à 1 050).
+- Vérifier le nombre de mots : `wc -w` (950 à 1 150).
 
 ## 4. Prononciation (règles de Nicolas)
 
