@@ -2,7 +2,7 @@
 
 Podcast quotidien en français, 7 jours sur 7, pour Nicolas (Londres ; famille et attaches à Paris,
 Asnières-sur-Seine et Audierne, dans le Finistère). Publié dans le fil Apple Podcasts **avant 6h00,
-heure de Paris** (la tâche démarre vers 4h40 car le rendu de la voix prend ≈45 minutes). Fil : `https://k95hjfrvg2-del.github.io/cap-matin/feed.xml`.
+heure de Paris** (la tâche doit démarrer au plus tard vers 4h30 heure de Paris, soit 3h30 à Londres en hiver, car la recherche et le rendu de la voix prennent environ 1 heure). Fil : `https://k95hjfrvg2-del.github.io/cap-matin/feed.xml`.
 
 Ce dépôt ne contient que Cap Matin. Ne jamais toucher au dépôt `le-petit-matin` (autre podcast).
 
@@ -138,6 +138,19 @@ python3 tools/make_episode.py scripts/cap_matin_YYYY-MM-DD.txt /tmp/Cap_Matin_YY
 
 Suivre la progression dans /tmp/render.log (une ligne « i n » par paragraphe). Vérifier la durée
 affichée à la fin (**7 min 30 maximum**).
+
+**TRÈS IMPORTANT — ne jamais terminer la session avant la fin du rendu.** Dans une tâche
+automatique, tout ce qui tourne encore en arrière-plan est coupé dès que la session répond pour la
+dernière fois : le 26 octobre, l'épisode n'a pas été publié à cause de ça. Après avoir lancé le
+rendu, **attendre activement** qu'il soit fini, par tranches de moins de 10 minutes, par exemple :
+
+```bash
+until grep -qE "^OK |Error|Traceback" /tmp/render.log; do sleep 20; done; tail -3 /tmp/render.log
+```
+
+(à relancer autant de fois que nécessaire, avec un délai d'attente de 10 minutes). Si une attente
+est coupée, relancer la même commande de rendu : elle reprend là où elle s'était arrêtée. Ne
+répondre à Nicolas qu'**après** la publication et le push.
 
 ## 6. Publication
 
