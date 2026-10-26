@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sun, 25 Oct 2026 09:58:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 07:50:07 +0000</lastBuildDate>
+  <item>
+   <title>Lundi 26 octobre : Lula réélu</title>
+   <description>Vie chère et congrès du RN, Lula réélu au Brésil, des jeunes médecins en Île-de-France, Jenny Holzer à Orsay, la tempête Boelo dans le Finistère, OK Corral et Pascal.</description>
+   <itunes:summary>Vie chère et congrès du RN, Lula réélu au Brésil, des jeunes médecins en Île-de-France, Jenny Holzer à Orsay, la tempête Boelo dans le Finistère, OK Corral et Pascal.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-10-26.mp3" length="2517465" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-10-26</guid>
+   <pubDate>Mon, 26 Oct 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>315</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Dimanche 25 octobre : une heure de plus</title>
    <description>Attentat de Trappes, vie chère et congrès du RN, le Brésil vote, deux gestes solidaires, dernier jour d'Art Basel, et les grandes marées à Audierne.</description>
