@@ -54,7 +54,9 @@
     },
     {
       "date": "10-26",
-      "qui": "Mémé"
+      "qui": "Mémé",
+      "decede": true,
+      "annee_naissance": null
     },
     {
       "date": "11-17",
@@ -63,7 +65,8 @@
     {
       "date": "12-03",
       "qui": "Pépé",
-      "note": "cent ans en 2026"
+      "decede": true,
+      "annee_naissance": 1926
     },
     {
       "date": "12-25",
@@ -85,5 +88,6 @@
     "Anne-Laure",
     "Jean-Marie",
     "Lucas"
-  ]
+  ],
+  "_regle_decedes": "Pour une personne avec \"decede\": true : ne JAMAIS souhaiter un joyeux anniversaire ni faire de rappel. Le jour même seulement, rappeler sobrement que c'est son jour de naissance et l'âge qu'elle aurait eu (année en cours moins annee_naissance), par ex. « Aujourd'hui, nous sommes le jour de naissance de Pépé : il aurait eu cent ans. » Si annee_naissance est vide, dire seulement que c'est son jour de naissance, sans âge."
 }

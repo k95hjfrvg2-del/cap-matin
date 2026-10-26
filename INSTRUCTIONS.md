@@ -25,9 +25,13 @@ Ce dépôt ne contient que Cap Matin. Ne jamais toucher au dépôt `le-petit-mat
 
 **Fêtes et anniversaires de la famille (dans la section 1, SEULEMENT s'il y en a aujourd'hui)** :
 lire `anniversaires.json` et comparer avec la date du jour (heure de Paris).
-- Anniversaire du jour d'une personne de la liste : l'annoncer en premier, avec chaleur mais
-  sobriété (certaines personnes sont décédées) : « Aujourd'hui, on pense à Mémé, dont c'est
-  l'anniversaire. » Le 20 juillet : souhaiter directement son anniversaire à Nicolas.
+- Anniversaire du jour d'une personne de la liste : l'annoncer en premier, avec chaleur
+  (« Aujourd'hui, on souhaite un très joyeux anniversaire à Camille ! »). Le 20 juillet : souhaiter
+  directement son anniversaire à Nicolas.
+- **Personnes décédées** (`"decede": true`, ex. Mémé et Pépé) : ne JAMAIS dire « joyeux
+  anniversaire ». Rappeler sobrement que c'est leur jour de naissance et l'âge qu'ils auraient eu
+  (année en cours moins `annee_naissance`) : « Aujourd'hui, c'est le jour de naissance de Pépé :
+  il aurait eu cent ans. » Sans âge si l'année est inconnue.
 - Fête du prénom : uniquement si un prénom de `prenoms_pour_les_fetes` est fêté aujourd'hui dans le
   calendrier français (vérifier sur nominis.cef.fr ou un calendrier des fêtes). Jamais le saint du
   jour s'il n'est pas dans la liste.
