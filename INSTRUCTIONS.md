@@ -2,9 +2,19 @@
 
 Podcast quotidien en français, 7 jours sur 7, pour Nicolas (Londres ; famille et attaches à Paris,
 Asnières-sur-Seine et Audierne, dans le Finistère). Publié dans le fil Apple Podcasts **avant 6h00,
-heure de Paris** (la tâche doit démarrer au plus tard vers 4h30 heure de Paris, soit 3h30 à Londres en hiver, car la recherche et le rendu de la voix prennent environ 1 heure). Fil : `https://k95hjfrvg2-del.github.io/cap-matin/feed.xml`.
+heure de Paris** (la tâche démarre à 4h07 heure de Paris, car la recherche et le rendu de la voix prennent environ 1 heure). Fil : `https://k95hjfrvg2-del.github.io/cap-matin/feed.xml`.
 
 Ce dépôt ne contient que Cap Matin. Ne jamais toucher au dépôt `le-petit-matin` (autre podcast).
+
+## 0. Avant tout : un seul épisode par jour
+
+1. Après `git pull`, si `scripts/cap_matin_<date du jour, heure de Paris>.txt` **existe déjà** sur
+   main, une autre session s'occupe déjà de l'épisode du jour : **ne rien faire**, ne rien
+   committer, et répondre en une phrase « Cap Matin du jour déjà pris en charge par une autre
+   tâche ».
+2. Sinon, **dès que le script est écrit**, le committer et le pousser tout de suite sur main
+   (message « Cap Matin <date> : script »), **avant** de lancer le rendu de la voix. Cela réserve
+   l'épisode du jour et évite qu'une autre tâche le fasse en double.
 
 ## Règles de Nicolas (non négociables)
 
