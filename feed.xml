@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Wed, 28 Oct 2026 04:05:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 03:57:00 +0000</lastBuildDate>
+  <item>
+   <title>Jeudi 29 octobre : les 98 secondes du Rhum</title>
+   <description>Deuil en Espagne après la collision de trains près de Tolède, la Route du Rhum qui s'élance dimanche, le congre, Don Giovanni et le premier message d'Internet.</description>
+   <itunes:summary>Deuil en Espagne après la collision de trains près de Tolède, la Route du Rhum qui s'élance dimanche, le congre, Don Giovanni et le premier message d'Internet.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-10-29.mp3" length="2996446" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-10-29</guid>
+   <pubDate>Thu, 29 Oct 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>375</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mercredi 28 octobre : le phare de l'enfer</title>
    <description>Le soleil revient, Moody's épargne la France, Israël a voté, le phare d'Ar-Men, le bar, la Pathétique, la statue de la Liberté et les sorties cinéma.</description>
