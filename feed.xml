@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Thu, 29 Oct 2026 03:57:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 04:14:54 +0000</lastBuildDate>
+  <item>
+   <title>Vendredi 30 octobre : Welles, Ali et le Saint-Pierre</title>
+   <description>Pétrole moins cher, départ de Christine Lagarde, une couveuse qu'on porte sur soi, le naufrage du Pourquoi-Pas ?, le Saint-Pierre, La Guerre des mondes et le combat du siècle à Kinshasa.</description>
+   <itunes:summary>Pétrole moins cher, départ de Christine Lagarde, une couveuse qu'on porte sur soi, le naufrage du Pourquoi-Pas ?, le Saint-Pierre, La Guerre des mondes et le combat du siècle à Kinshasa.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-10-30.mp3" length="3042003" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-10-30</guid>
+   <pubDate>Fri, 30 Oct 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>380</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Jeudi 29 octobre : les 98 secondes du Rhum</title>
    <description>Deuil en Espagne après la collision de trains près de Tolède, la Route du Rhum qui s'élance dimanche, le congre, Don Giovanni et le premier message d'Internet.</description>
