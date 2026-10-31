@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Fri, 30 Oct 2026 04:14:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 04:24:16 +0000</lastBuildDate>
+  <item>
+   <title>Samedi 31 octobre : Bombard, Houdini et maquereau</title>
+   <description>Mobilisation contre la vie chère, bénéfice record de TotalEnergies, Bukayo Saka récompensé, la traversée d'Alain Bombard, le maquereau, Houdini, Galilée et Kierkegaard.</description>
+   <itunes:summary>Mobilisation contre la vie chère, bénéfice record de TotalEnergies, Bukayo Saka récompensé, la traversée d'Alain Bombard, le maquereau, Houdini, Galilée et Kierkegaard.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-10-31.mp3" length="3031554" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-10-31</guid>
+   <pubDate>Sat, 31 Oct 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>379</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Vendredi 30 octobre : Welles, Ali et le Saint-Pierre</title>
    <description>Pétrole moins cher, départ de Christine Lagarde, une couveuse qu'on porte sur soi, le naufrage du Pourquoi-Pas ?, le Saint-Pierre, La Guerre des mondes et le combat du siècle à Kinshasa.</description>
