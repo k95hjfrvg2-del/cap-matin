@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Mon, 02 Nov 2026 04:08:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 04:05:06 +0000</lastBuildDate>
+  <item>
+   <title>Mardi 3 novembre : midterms et phare de la Jument</title>
+   <description>Mobilisation en France, élections de mi-mandat aux États-Unis, Oxford Street piétonne, la sonde Hera, la Route du Rhum, le phare de la Jument, la lotte, Matisse, Laïka et Nietzsche.</description>
+   <itunes:summary>Mobilisation en France, élections de mi-mandat aux États-Unis, Oxford Street piétonne, la sonde Hera, la Route du Rhum, le phare de la Jument, la lotte, Matisse, Laïka et Nietzsche.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-03.mp3" length="3124759" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-03</guid>
+   <pubDate>Tue, 03 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>391</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Lundi 2 novembre : Tabarly, turbot et Sisyphe</title>
    <description>Rentrée, pompier blessé près de Marseille, Israël sans majorité, les puffins de Corvo, la Route du Rhum, Tabarly en 1964, le turbot, la BBC en 1936, Marie-Antoinette et Camus.</description>
