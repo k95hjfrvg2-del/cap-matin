@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Tue, 03 Nov 2026 04:05:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 04:25:46 +0000</lastBuildDate>
+  <item>
+   <title>Mercredi 4 novembre : le marcheur de Hull rentre</title>
+   <description>Budget et grève en France, premiers résultats des midterms, Karl Bushby rentre à pied après 28 ans, la Route du Rhum, Moitessier, la sardine, Mendelssohn, trois films, Toutankhamon et Marc Aurèle.</description>
+   <itunes:summary>Budget et grève en France, premiers résultats des midterms, Karl Bushby rentre à pied après 28 ans, la Route du Rhum, Moitessier, la sardine, Mendelssohn, trois films, Toutankhamon et Marc Aurèle.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-04.mp3" length="3492563" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-04</guid>
+   <pubDate>Wed, 04 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>437</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mardi 3 novembre : midterms et phare de la Jument</title>
    <description>Mobilisation en France, élections de mi-mandat aux États-Unis, Oxford Street piétonne, la sonde Hera, la Route du Rhum, le phare de la Jument, la lotte, Matisse, Laïka et Nietzsche.</description>
