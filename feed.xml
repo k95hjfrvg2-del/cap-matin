@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Wed, 04 Nov 2026 04:25:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 04:09:45 +0000</lastBuildDate>
+  <item>
+   <title>Jeudi 5 novembre : grève, budget et castors</title>
+   <description>Grève contre la vie chère, budget rejeté à l'unanimité, les démocrates prennent le Congrès, les castors reviennent au Loch Ness, le chavirage d'Armel Le Cléac'h, les marins de l'île de Sein et le thon germon.</description>
+   <itunes:summary>Grève contre la vie chère, budget rejeté à l'unanimité, les démocrates prennent le Congrès, les castors reviennent au Loch Ness, le chavirage d'Armel Le Cléac'h, les marins de l'île de Sein et le thon germon.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-05.mp3" length="3236563" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-05</guid>
+   <pubDate>Thu, 05 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>405</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mercredi 4 novembre : le marcheur de Hull rentre</title>
    <description>Budget et grève en France, premiers résultats des midterms, Karl Bushby rentre à pied après 28 ans, la Route du Rhum, Moitessier, la sardine, Mendelssohn, trois films, Toutankhamon et Marc Aurèle.</description>
