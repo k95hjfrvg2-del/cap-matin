@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Thu, 05 Nov 2026 04:09:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 04:00:05 +0000</lastBuildDate>
+  <item>
+   <title>Vendredi 6 novembre : Gabby Williams, Adolphe Sax</title>
+   <description>Bilan de la grève et conférence sociale, crise au Paraguay, Gabby Williams championne WNBA, Alain Gerbault, la sole, Adolphe Sax, Lincoln et Spinoza.</description>
+   <itunes:summary>Bilan de la grève et conférence sociale, crise au Paraguay, Gabby Williams championne WNBA, Alain Gerbault, la sole, Adolphe Sax, Lincoln et Spinoza.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-06.mp3" length="3110967" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-06</guid>
+   <pubDate>Fri, 06 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>389</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Jeudi 5 novembre : grève, budget et castors</title>
    <description>Grève contre la vie chère, budget rejeté à l'unanimité, les démocrates prennent le Congrès, les castors reviennent au Loch Ness, le chavirage d'Armel Le Cléac'h, les marins de l'île de Sein et le thon germon.</description>
