@@ -450,4 +450,3 @@ shunga => shounga
 Amoco Cadiz => Amoco Cadisse
 Portsall => Portsal
 Pacific => Passifik
-Louis Burton => Louis Beurtone
