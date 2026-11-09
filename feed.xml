@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sun, 08 Nov 2026 04:20:34 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 04:15:19 +0000</lastBuildDate>
+  <item>
+   <title>Lundi 9 novembre : Smic, COP31 et porc-épic</title>
+   <description>Conférence sociale à Matignon, ouverture de la COP31, un premier porc-épic en France, le podium du Rhum, la dorade grise, Apollinaire et la chute du mur de Berlin.</description>
+   <itunes:summary>Conférence sociale à Matignon, ouverture de la COP31, un premier porc-épic en France, le podium du Rhum, la dorade grise, Apollinaire et la chute du mur de Berlin.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-09.mp3" length="3172198" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-09</guid>
+   <pubDate>Mon, 09 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>396</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Dimanche 8 novembre : le record de Laperche</title>
    <description>Tom Laperche pulvérise le record de la Route du Rhum, la conférence sociale de lundi, le rouget barbet, Bram Stoker, les rayons X de Röntgen et Aristote.</description>
