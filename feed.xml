@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Wed, 11 Nov 2026 04:42:13 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 04:06:37 +0000</lastBuildDate>
+  <item>
+   <title>Jeudi 12 novembre : Rodin, Voyager et le cabillaud</title>
+   <description>Cyberattaque iranienne contre les frigos des supermarchés, fin des pourparlers d'Abu Dhabi, des gravures de l'âge glaciaire en Catalogne, Joshua Slocum, le cabillaud, Rodin, Voyager à Saturne et Héraclite.</description>
+   <itunes:summary>Cyberattaque iranienne contre les frigos des supermarchés, fin des pourparlers d'Abu Dhabi, des gravures de l'âge glaciaire en Catalogne, Joshua Slocum, le cabillaud, Rodin, Voyager à Saturne et Héraclite.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-12.mp3" length="3079202" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-12</guid>
+   <pubDate>Thu, 12 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>385</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mercredi 11 novembre : mémoire, baleines et orchidées</title>
    <description>Un 11-Novembre de mémoire, les pourparlers d'Abu Dhabi, des orchidées sauvées en Inde, un baleineau au Québec, le sauvetage de Kevin Escoffier par Jean Le Cam, la raie bouclée et les sorties cinéma.</description>
