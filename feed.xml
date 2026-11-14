@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Fri, 13 Nov 2026 03:58:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 04:09:50 +0000</lastBuildDate>
+  <item>
+   <title>Samedi 14 novembre : Kon-Tiki, Monet et Nellie Bly</title>
+   <description>Mobilisation contre la vie chère, l'Europe vers la table des négociations sur l'Ukraine, recul des maladies tropicales, le radeau Kon-Tiki, le lieu noir, Monet, Nellie Bly et Hegel.</description>
+   <itunes:summary>Mobilisation contre la vie chère, l'Europe vers la table des négociations sur l'Ukraine, recul des maladies tropicales, le radeau Kon-Tiki, le lieu noir, Monet, Nellie Bly et Hegel.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-14.mp3" length="3302183" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-14</guid>
+   <pubDate>Sat, 14 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>413</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Vendredi 13 novembre : la légende d'Ys</title>
    <description>Lycées, COP31 et solaire sur les toits, Fragonard à la Monnaie de Paris, la ville d'Ys, le merlan, Stevenson, l'hélicoptère de Paul Cornu et saint Augustin.</description>
