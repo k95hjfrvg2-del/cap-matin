@@ -582,4 +582,3 @@ Bab el-Mandeb => Bab el-Manndeb
 Silt => Sillte
 Scyliorhinus... canicula => Scilio-rinousse... kanikoula
 Penmarc'h => Penn-mar
-Depardieu => Deupardieu

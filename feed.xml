@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Mon, 16 Nov 2026 04:00:08 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 03:59:37 +0000</lastBuildDate>
+  <item>
+   <title>Mardi 17 novembre : vent, baleine et Suez</title>
+   <description>Joyeux anniversaire Lucas, grève dans la fonction publique, un bébé baleine franche, Ellen MacArthur, la petite roussette, Scorsese, le canal de Suez et Rousseau.</description>
+   <itunes:summary>Joyeux anniversaire Lucas, grève dans la fonction publique, un bébé baleine franche, Ellen MacArthur, la petite roussette, Scorsese, le canal de Suez et Rousseau.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-17.mp3" length="3349203" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-17</guid>
+   <pubDate>Tue, 17 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>419</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Lundi 16 novembre : Grace Darling et le grondin</title>
    <description>Macron au Cambodge, baisse des émissions de CO2, le port d'Audierne en pause, Grace Darling, le grondin perlon, Saramago, le message d'Arecibo et Socrate.</description>
