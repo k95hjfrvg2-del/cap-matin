@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Wed, 18 Nov 2026 04:00:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 03:56:42 +0000</lastBuildDate>
+  <item>
+   <title>Jeudi 19 novembre : sommet à Shenzhen, comté champion</title>
+   <description>Sommet Trump–Xi–Poutine, le comté meilleur fromage du monde, Alain Colas et Manureva, le hareng, Schubert, Apollo 12 et La Rochefoucauld.</description>
+   <itunes:summary>Sommet Trump–Xi–Poutine, le comté meilleur fromage du monde, Alain Colas et Manureva, le hareng, Schubert, Apollo 12 et La Rochefoucauld.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-19.mp3" length="3125386" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-19</guid>
+   <pubDate>Thu, 19 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>391</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Mercredi 18 novembre : Proust, phare et dorade</title>
    <description>Bilan de la grève, le pont de Kertch, une opération avant la naissance, Alexia Barrier sur la Route du Rhum, le phare de la Vieille, la dorade royale, Proust, trois films et Bergson.</description>
