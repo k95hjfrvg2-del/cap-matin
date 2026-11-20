@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Thu, 19 Nov 2026 03:56:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 03:58:13 +0000</lastBuildDate>
+  <item>
+   <title>Vendredi 20 novembre : le cachalot de l'Essex</title>
+   <description>Grève des jeunes, sommet de Shenzhen sans percée, la santé des filles qui progresse, Fragonard à la Monnaie de Paris, le port d'Audierne, l'Essex et Moby Dick, le tacaud, Tolstoï, Nuremberg et Diderot.</description>
+   <itunes:summary>Grève des jeunes, sommet de Shenzhen sans percée, la santé des filles qui progresse, Fragonard à la Monnaie de Paris, le port d'Audierne, l'Essex et Moby Dick, le tacaud, Tolstoï, Nuremberg et Diderot.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-20.mp3" length="3235101" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-20</guid>
+   <pubDate>Fri, 20 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>404</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Jeudi 19 novembre : sommet à Shenzhen, comté champion</title>
    <description>Sommet Trump–Xi–Poutine, le comté meilleur fromage du monde, Alain Colas et Manureva, le hareng, Schubert, Apollo 12 et La Rochefoucauld.</description>
