@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Fri, 20 Nov 2026 03:58:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 03:59:44 +0000</lastBuildDate>
+  <item>
+   <title>Samedi 21 novembre : Kerguelen, Magritte et montgolfière</title>
+   <description>Acte six des Gilets jaunes, ponts visés en Ukraine, un bébé baleine, l'explorateur Kerguelen, la grande vive, Magritte et le premier vol en montgolfière.</description>
+   <itunes:summary>Acte six des Gilets jaunes, ponts visés en Ukraine, un bébé baleine, l'explorateur Kerguelen, la grande vive, Magritte et le premier vol en montgolfière.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-21.mp3" length="3159868" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-21</guid>
+   <pubDate>Sat, 21 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>395</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Vendredi 20 novembre : le cachalot de l'Essex</title>
    <description>Grève des jeunes, sommet de Shenzhen sans percée, la santé des filles qui progresse, Fragonard à la Monnaie de Paris, le port d'Audierne, l'Essex et Moby Dick, le tacaud, Tolstoï, Nuremberg et Diderot.</description>
