@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Sat, 21 Nov 2026 03:59:44 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 03:57:30 +0000</lastBuildDate>
+  <item>
+   <title>Dimanche 22 novembre : Surcouf, l'anchois et l'Album blanc</title>
+   <description>Mobilisation contre la vie chère, Ruffin renonce, COP31 prolongée, retraite des chevaux de Central Park, Surcouf, l'anchois, l'Album blanc des Beatles et Kennedy.</description>
+   <itunes:summary>Mobilisation contre la vie chère, Ruffin renonce, COP31 prolongée, retraite des chevaux de Central Park, Surcouf, l'anchois, l'Album blanc des Beatles et Kennedy.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-22.mp3" length="3165928" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-22</guid>
+   <pubDate>Sun, 22 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>396</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Samedi 21 novembre : Kerguelen, Magritte et montgolfière</title>
    <description>Acte six des Gilets jaunes, ponts visés en Ukraine, un bébé baleine, l'explorateur Kerguelen, la grande vive, Magritte et le premier vol en montgolfière.</description>
