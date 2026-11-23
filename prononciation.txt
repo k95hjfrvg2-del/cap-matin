@@ -658,3 +658,4 @@ Belone belone => Bé-lo-né… bé-lo-né
 Belone => Bé-lo-né
 Argus => Argusse
 Koufra => Koufra
+belone => bé-lo-né
