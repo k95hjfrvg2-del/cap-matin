@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-24",
+  "title": "Mardi 24 novembre : jaguars, maigre et Darwin",
+  "summary": "Grandes marées à Audierne, nouvelles règles du crédit conso, accord Londres-Bruxelles, jaguars sociables, le phare d'Eckmühl, le maigre qui chante, Toulouse-Lautrec, Darwin et Wittgenstein.",
+  "bytes": 3305945,
+  "duration": 413
+ },
+ {
   "date": "2026-11-23",
   "title": "Lundi 23 novembre : le meilleur fromage du monde",
   "summary": "Fin de la COP31 sans accord, cyberattaque au CHU de Guadeloupe, un comté sacré meilleur fromage du monde, la Méduse, l'orphie aux arêtes vertes, Doctor Who et la libération de Strasbourg.",
@@ -201,12 +208,5 @@
   "summary": "Vie chère et congrès du RN, Lula réélu au Brésil, des jeunes médecins en Île-de-France, Jenny Holzer à Orsay, la tempête Boelo dans le Finistère, OK Corral et Pascal.",
   "bytes": 2517465,
   "duration": 315
- },
- {
-  "date": "2026-10-25",
-  "title": "Dimanche 25 octobre : une heure de plus",
-  "summary": "Attentat de Trappes, vie chère et congrès du RN, le Brésil vote, deux gestes solidaires, dernier jour d'Art Basel, et les grandes marées à Audierne.",
-  "bytes": 2525197,
-  "duration": 316
  }
 ]

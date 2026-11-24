@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Mon, 23 Nov 2026 04:03:08 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 03:56:54 +0000</lastBuildDate>
+  <item>
+   <title>Mardi 24 novembre : jaguars, maigre et Darwin</title>
+   <description>Grandes marées à Audierne, nouvelles règles du crédit conso, accord Londres-Bruxelles, jaguars sociables, le phare d'Eckmühl, le maigre qui chante, Toulouse-Lautrec, Darwin et Wittgenstein.</description>
+   <itunes:summary>Grandes marées à Audierne, nouvelles règles du crédit conso, accord Londres-Bruxelles, jaguars sociables, le phare d'Eckmühl, le maigre qui chante, Toulouse-Lautrec, Darwin et Wittgenstein.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-24.mp3" length="3305945" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-24</guid>
+   <pubDate>Tue, 24 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>413</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Lundi 23 novembre : le meilleur fromage du monde</title>
    <description>Fin de la COP31 sans accord, cyberattaque au CHU de Guadeloupe, un comté sacré meilleur fromage du monde, la Méduse, l'orphie aux arêtes vertes, Doctor Who et la libération de Strasbourg.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">cap-matin-2026-10-26</guid>
    <pubDate>Mon, 26 Oct 2026 04:00:00 +0000</pubDate>
    <itunes:duration>315</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Dimanche 25 octobre : une heure de plus</title>
-   <description>Attentat de Trappes, vie chère et congrès du RN, le Brésil vote, deux gestes solidaires, dernier jour d'Art Basel, et les grandes marées à Audierne.</description>
-   <itunes:summary>Attentat de Trappes, vie chère et congrès du RN, le Brésil vote, deux gestes solidaires, dernier jour d'Art Basel, et les grandes marées à Audierne.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-10-25.mp3" length="2525197" type="audio/mpeg"/>
-   <guid isPermaLink="false">cap-matin-2026-10-25</guid>
-   <pubDate>Sun, 25 Oct 2026 04:00:00 +0000</pubDate>
-   <itunes:duration>316</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
