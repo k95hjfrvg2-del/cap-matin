@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-25",
+  "title": "Mercredi 25 novembre : la Blanche-Nef et le requin-pèlerin",
+  "summary": "Affaire Nahel, l'Érythrée vainc le trachome, la Blanche-Nef, le requin-pèlerin, Agatha Christie, Einstein, Épictète et les sorties cinéma du mercredi.",
+  "bytes": 3453902,
+  "duration": 432
+ },
+ {
   "date": "2026-11-24",
   "title": "Mardi 24 novembre : jaguars, maigre et Darwin",
   "summary": "Grandes marées à Audierne, nouvelles règles du crédit conso, accord Londres-Bruxelles, jaguars sociables, le phare d'Eckmühl, le maigre qui chante, Toulouse-Lautrec, Darwin et Wittgenstein.",
@@ -201,12 +208,5 @@
   "summary": "Annonces pour les lycéens, élections en Israël, Oxford Street piétonne, le Drummond Castle, le lieu jaune, Paganini et Arkhipov.",
   "bytes": 3067290,
   "duration": 383
- },
- {
-  "date": "2026-10-26",
-  "title": "Lundi 26 octobre : Lula réélu",
-  "summary": "Vie chère et congrès du RN, Lula réélu au Brésil, des jeunes médecins en Île-de-France, Jenny Holzer à Orsay, la tempête Boelo dans le Finistère, OK Corral et Pascal.",
-  "bytes": 2517465,
-  "duration": 315
  }
 ]
