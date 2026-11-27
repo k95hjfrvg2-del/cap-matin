@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-27",
+  "title": "Vendredi 27 novembre : grand froid et thon rouge",
+  "summary": "Vague de froid en Île-de-France, impasse sur le budget de la Sécu, la BCE, une peau artificielle pour les grands brûlés, le mystère La Pérouse, le thon rouge, Jimi Hendrix et le testament de Nobel.",
+  "bytes": 3072306,
+  "duration": 384
+ },
+ {
   "date": "2026-11-26",
   "title": "Jeudi 26 novembre : Casablanca, Astérix et grandes marées",
   "summary": "Mobilisation dans les universités, tensions à Ormuz, des espèces sauvées de justesse, la Corée au musée Cernuschi, le port d'Audierne en pause, Cousteau et le scaphandre autonome, le mulet lippu, Casablanca et le satellite Astérix.",
@@ -201,12 +208,5 @@
   "summary": "Deuil en Espagne après la collision de trains près de Tolède, la Route du Rhum qui s'élance dimanche, le congre, Don Giovanni et le premier message d'Internet.",
   "bytes": 2996446,
   "duration": 375
- },
- {
-  "date": "2026-10-28",
-  "title": "Mercredi 28 octobre : le phare de l'enfer",
-  "summary": "Le soleil revient, Moody's épargne la France, Israël a voté, le phare d'Ar-Men, le bar, la Pathétique, la statue de la Liberté et les sorties cinéma.",
-  "bytes": 3429243,
-  "duration": 429
  }
 ]
