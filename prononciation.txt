@@ -713,3 +713,6 @@ Seattle => Siatteul
 Woodstock => Woudstok
 Johnny Hallyday => Johnny Hallyday
 Montesquieu => Montèskieu
+rhombus => rommbousse
+Kate Sheppard => Kéïte Chèpeurde
+Te Deum => Té Déoumme
