@@ -13,7 +13,18 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:owner><itunes:name>Cap Matin</itunes:name><itunes:email>podcast@users.noreply.github.com</itunes:email></itunes:owner>
-  <lastBuildDate>Fri, 27 Nov 2026 04:03:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 04:03:46 +0000</lastBuildDate>
+  <item>
+   <title>Samedi 28 novembre : Magellan, Lully et la barbue</title>
+   <description>Violences contre les élus, sommet européen sans accord, forêts qui renaissent, Magellan découvre le Pacifique, la barbue, Lully et le vote des femmes en Nouvelle-Zélande.</description>
+   <itunes:summary>Violences contre les élus, sommet européen sans accord, forêts qui renaissent, Magellan découvre le Pacifique, la barbue, Lully et le vote des femmes en Nouvelle-Zélande.</itunes:summary>
+   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-11-28.mp3" length="3064155" type="audio/mpeg"/>
+   <guid isPermaLink="false">cap-matin-2026-11-28</guid>
+   <pubDate>Sat, 28 Nov 2026 04:00:00 +0000</pubDate>
+   <itunes:duration>383</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Vendredi 27 novembre : grand froid et thon rouge</title>
    <description>Vague de froid en Île-de-France, impasse sur le budget de la Sécu, la BCE, une peau artificielle pour les grands brûlés, le mystère La Pérouse, le thon rouge, Jimi Hendrix et le testament de Nobel.</description>
@@ -330,17 +341,6 @@
    <guid isPermaLink="false">cap-matin-2026-10-30</guid>
    <pubDate>Fri, 30 Oct 2026 04:00:00 +0000</pubDate>
    <itunes:duration>380</itunes:duration>
-   <itunes:explicit>false</itunes:explicit>
-   <itunes:episodeType>full</itunes:episodeType>
-  </item>
-  <item>
-   <title>Jeudi 29 octobre : les 98 secondes du Rhum</title>
-   <description>Deuil en Espagne après la collision de trains près de Tolède, la Route du Rhum qui s'élance dimanche, le congre, Don Giovanni et le premier message d'Internet.</description>
-   <itunes:summary>Deuil en Espagne après la collision de trains près de Tolède, la Route du Rhum qui s'élance dimanche, le congre, Don Giovanni et le premier message d'Internet.</itunes:summary>
-   <enclosure url="https://k95hjfrvg2-del.github.io/cap-matin/episodes/2026-10-29.mp3" length="2996446" type="audio/mpeg"/>
-   <guid isPermaLink="false">cap-matin-2026-10-29</guid>
-   <pubDate>Thu, 29 Oct 2026 04:00:00 +0000</pubDate>
-   <itunes:duration>375</itunes:duration>
    <itunes:explicit>false</itunes:explicit>
    <itunes:episodeType>full</itunes:episodeType>
   </item>
